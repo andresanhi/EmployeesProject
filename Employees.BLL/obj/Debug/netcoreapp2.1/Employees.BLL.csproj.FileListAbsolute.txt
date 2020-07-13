@@ -1,9 +1,0 @@
-D:\Repos\MASGlobal\Employees\Employees.BLL\bin\Debug\netcoreapp2.1\Employees.BLL.deps.json
-D:\Repos\MASGlobal\Employees\Employees.BLL\bin\Debug\netcoreapp2.1\Employees.BLL.dll
-D:\Repos\MASGlobal\Employees\Employees.BLL\bin\Debug\netcoreapp2.1\Employees.BLL.pdb
-D:\Repos\MASGlobal\Employees\Employees.BLL\obj\Debug\netcoreapp2.1\Employees.BLL.csprojAssemblyReference.cache
-D:\Repos\MASGlobal\Employees\Employees.BLL\obj\Debug\netcoreapp2.1\Employees.BLL.csproj.CoreCompileInputs.cache
-D:\Repos\MASGlobal\Employees\Employees.BLL\obj\Debug\netcoreapp2.1\Employees.BLL.AssemblyInfoInputs.cache
-D:\Repos\MASGlobal\Employees\Employees.BLL\obj\Debug\netcoreapp2.1\Employees.BLL.AssemblyInfo.cs
-D:\Repos\MASGlobal\Employees\Employees.BLL\obj\Debug\netcoreapp2.1\Employees.BLL.dll
-D:\Repos\MASGlobal\Employees\Employees.BLL\obj\Debug\netcoreapp2.1\Employees.BLL.pdb
