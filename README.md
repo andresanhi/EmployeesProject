@@ -15,6 +15,8 @@ enter the folder: EmployeesProject
 execute: Employees.sln
 restore dependencies
 run
+
+The Start-up project is Employees.PL
 ```
 ## Author ✒️
 
