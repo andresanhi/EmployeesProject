@@ -11,10 +11,10 @@ Visual Studio 2017 +
 
 ```
 git clone https://github.com/andresanhi/EmployeesProject.git
-enter the folder: EmployeesProject
-execute: Employees.sln
-restore dependencies
-run
+Open folder: EmployeesProject
+Execute File: Employees.sln
+Restore dependencies
+Run
 
 The Start-up project is Employees.PL
 ```
