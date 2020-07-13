@@ -1,0 +1,28 @@
+[
+  {
+    "outputFileName": "wwwroot/js/app.js",
+    "inputFiles": [
+      "AngularApp/runtime-es2015.cdfb0ddb511f65fdc0a0.js",
+      "AngularApp/runtime-es5.cdfb0ddb511f65fdc0a0.js",
+      "AngularApp/polyfills-es5.0290b245fbcca09184ac.js",
+      "AngularApp/polyfills-es2015.ffa9bb4e015925544f91.js",
+      "AngularApp/main-es2015.63fd746554d56440166c.js",
+      "AngularApp/main-es5.63fd746554d56440166c.js"
+    ],
+    "minify": {
+      "enabled": false,
+      "renameLocals": false
+    },
+    "sourceMap": false
+  },
+  {
+    "outputFileName": "wwwroot/css/app.css",
+    "inputFiles": [
+      "AngularApp/styles.d7c6bd1eb431429ddfc0.css"
+    ],
+    "minify": {
+      "enabled": false,
+      "renameLocals": false
+    }
+  }
+]
